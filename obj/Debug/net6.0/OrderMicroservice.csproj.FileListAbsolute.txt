@@ -1,6 +1,0 @@
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.GeneratedMSBuildEditorConfig.editorconfig
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.AssemblyInfoInputs.cache
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.AssemblyInfo.cs
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.csproj.CoreCompileInputs.cache
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.MvcApplicationPartsAssemblyInfo.cs
-C:\repos\order microservice\obj\Debug\net6.0\OrderMicroservice.MvcApplicationPartsAssemblyInfo.cache
