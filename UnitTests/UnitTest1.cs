@@ -195,6 +195,8 @@ namespace Tests
                 Total = 500M
             };
 
+            context.Orders.RemoveRange(context.Orders);
+            context.SaveChanges();
             context.Orders.Add(order1);
             context.Orders.Add(order2);
             context.Orders.Add(order3);
